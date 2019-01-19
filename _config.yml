@@ -16,7 +16,9 @@
 title: John Park
 email: johnhpark@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey there, I'm John, a sophomore Computer Science student at UC Berkeley.
+  Hey there, I'm John, a sophomore Computer Science student at UC Berkeley. This
+is my personal website where I discuss the latest technology news, my personal projects
+and just generally talk about cool stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
